@@ -1,0 +1,19 @@
+.common {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+.name {
+    width: 150px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.count {
+    display: flex;
+}
+.countNumber {
+    width: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}

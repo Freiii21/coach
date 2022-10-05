@@ -1,0 +1,12 @@
+.common {
+    background-color: yellow;
+    width: 100vh;
+    max-width: 480px;
+    height: 100vh;
+    max-height: 640px;
+    border: 2px solid red;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
